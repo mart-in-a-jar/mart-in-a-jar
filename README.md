@@ -21,6 +21,10 @@ Practice design with flexbox
 [Live preview](https://raw.githack.com/mart-in-a-jar/etch-a-sketch/main/index.html)  
 Javascript project
 
+### [Library](https://github.com/mart-in-a-jar/odin-library)
+Practice object prototypes, table manipulation, modals etc.
+[Live preview](http://raw.githack.com/mart-in-a-jar/odin-library/main/index.html)
+
 ### [Loyalty program](https://github.com/mart-in-a-jar/loyalty_program)  
 [Live preview](https://ndm.ssn.no/bok/)  
 Digital stampcards
