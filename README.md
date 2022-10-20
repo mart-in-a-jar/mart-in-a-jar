@@ -39,3 +39,5 @@ DOM manipulation and webpack
 ### [Loyalty program](https://github.com/mart-in-a-jar/loyalty_program)  
 [Live preview](https://ndm.ssn.no/bok/)  
 Digital stampcards
+
+### [Form validation with javascript](https://github.com/mart-in-a-jar/js_fiddle/tree/main/form_validation)
