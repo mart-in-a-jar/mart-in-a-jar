@@ -9,6 +9,9 @@ You can click the Preview link to take a look at your changes.
 
 ## Projects
 
+### [Battleship game](https://github.com/mart-in-a-jar/odin-battleship)  
+[Live preview](https://mart-in-a-jar.github.io/odin-battleship/)  
+
 ### [Todo list](https://github.com/mart-in-a-jar/odin-todo-list)
 [Live preview](https://mart-in-a-jar.github.io/odin-todo-list/)  
 
