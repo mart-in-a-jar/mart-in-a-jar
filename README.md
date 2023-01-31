@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 ## Projects
 
 ### [CV editor](https://github.com/mart-in-a-jar/odin-cv-project)
-First React project
+First React project  
 [Live preview](https://mart-in-a-jar.github.io/odin-cv-project/)
 
 ### [Battleship game](https://github.com/mart-in-a-jar/odin-battleship)  
