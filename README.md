@@ -9,6 +9,10 @@ You can click the Preview link to take a look at your changes.
 
 ## Projects
 
+### [Memory card game](https://github.com/mart-in-a-jar/odin-memory-card)
+React training  
+[Live preview](https://mart-in-a-jar.github.io/odin-memory-card/)
+
 ### [CV editor](https://github.com/mart-in-a-jar/odin-cv-project)
 First React project  
 [Live preview](https://mart-in-a-jar.github.io/odin-cv-project/)
