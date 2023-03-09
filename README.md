@@ -53,7 +53,8 @@ DOM manipulation and webpack
 Digital stampcards  
 [Live preview](https://ndm.ssn.no/bok/)
 
-### [Form validation with javascript](https://github.com/mart-in-a-jar/js_fiddle/tree/main/form_validation)
+### [Form validation with javascript](https://github.com/mart-in-a-jar/js_fiddle/tree/main/form_validation)  
+[Live preview](http://raw.githack.com/mart-in-a-jar/js_fiddle/main/form_validation/dist/index.html)
 
 ### [Weather app](https://github.com/mart-in-a-jar/odin-weather-app)
 Api, fetch, async, location  
