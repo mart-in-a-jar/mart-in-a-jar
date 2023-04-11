@@ -9,6 +9,10 @@ You can click the Preview link to take a look at your changes.
 
 ## Projects
 
+### [Shopping cart](https://github.com/mart-in-a-jar/odin-shopping-cart)
+React router++  
+[Live preview](https://mart-in-a-jar.github.io/odin-shopping-cart/)
+
 ### [Memory card game](https://github.com/mart-in-a-jar/odin-memory-card)
 React training  
 [Live preview](https://mart-in-a-jar.github.io/odin-memory-card/)
