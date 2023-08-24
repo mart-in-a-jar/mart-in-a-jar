@@ -9,6 +9,14 @@ You can click the Preview link to take a look at your changes.
 
 ## Projects
 
+### [Custom slider](https://github.com/mart-in-a-jar/custom-slider)
+Slider react component. To be used for opening doors  
+[Live preview](https://mart-in-a-jar.github.io/custom-slider)
+
+### [Where's Waldo?](https://github.com/mart-in-a-jar/odin-where-is-waldo)
+Firebase, react, snackbar, image tagging, pwa and more  
+[Live preview](https://odin-waldo-app.web.app/)
+
 ### [Shopping cart](https://github.com/mart-in-a-jar/odin-shopping-cart)
 React router++  
 [Live preview](https://mart-in-a-jar.github.io/odin-shopping-cart/)
