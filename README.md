@@ -9,6 +9,10 @@ You can click the Preview link to take a look at your changes.
 
 ## Projects
 
+### [Portfolio](https://github.com/mart-in-a-jar/odin-portfolio)
+Responsive design project  
+[Live preview](https://mart-in-a-jar.github.io/odin-portfolio)
+
 ### [Custom slider](https://github.com/mart-in-a-jar/custom-slider)
 Slider react component. To be used for opening doors  
 [Live preview](https://mart-in-a-jar.github.io/custom-slider)
