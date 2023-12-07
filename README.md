@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @mart-in-a-jar
-- 🌱 I’m currently learning web development through [The Odin Project](https://www.theodinproject.com/)
+- ด้้้้้็็็็็้้้้้็็็็็้้้้ Hi, I’m @mart-in-a-jar
 
 
 <!---
