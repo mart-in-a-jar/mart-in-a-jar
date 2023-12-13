@@ -6,7 +6,6 @@ mart-in-a-jar/mart-in-a-jar is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-## Projects
 ### [Cashpoints](https://github.com/mart-in-a-jar/cashpoints)
 Deposit or charge cashpoints for users in Munu POS, get user info from D365
 
@@ -18,9 +17,9 @@ Digital stampcards demo
 Slider react component. To be used for opening doors  
 [Live preview](https://mart-in-a-jar.github.io/custom-slider)
 
-## Projects done during [The Odin Project](https://www.theodinproject.com)
+## Some of my projects done during [The Odin Project](https://www.theodinproject.com)
 
-### [Portfolio](https://github.com/mart-in-a-jar/odin-portfolio)
+### [Portfolio site](https://github.com/mart-in-a-jar/odin-portfolio)
 Responsive design project  
 [Live preview](https://mart-in-a-jar.github.io/odin-portfolio)
 
@@ -36,9 +35,8 @@ React router++
 React training  
 [Live preview](https://mart-in-a-jar.github.io/odin-memory-card/)
 
-### [CV editor](https://github.com/mart-in-a-jar/odin-cv-project)
-First React project  
-[Live preview](https://mart-in-a-jar.github.io/odin-cv-project/)
+### [Calculator app](https://github.com/mart-in-a-jar/calculator)
+[Live preview](http://htmlpreview.github.io/?https://github.com/mart-in-a-jar/calculator/blob/main/index.html)
 
 ### [Battleship game](https://github.com/mart-in-a-jar/odin-battleship)  
 Unit testing with jest. Objects/methods  
@@ -50,6 +48,10 @@ Unit testing with jest. Objects/methods
 ### [Admin dashboard](https://github.com/mart-in-a-jar/odin-admin-dashboard)
 Practice design with grid  
 [Live preview](http://raw.githack.com/mart-in-a-jar/odin-admin-dashboard/master/index.html)
+
+### [CV editor](https://github.com/mart-in-a-jar/odin-cv-project)
+First React project  
+[Live preview](https://mart-in-a-jar.github.io/odin-cv-project/)
 
 ### [Tic-tac-toe game](https://github.com/mart-in-a-jar/odin-tic-tac-toe)
 Practice modules and factories  
@@ -77,6 +79,3 @@ DOM manipulation and webpack
 ### [Weather app](https://github.com/mart-in-a-jar/odin-weather-app)
 Api, fetch, async, location  
 [Live preview](https://mart-in-a-jar.github.io/odin-weather-app/)
-
-### [Calculator app](https://github.com/mart-in-a-jar/calculator)
-[Live preview](http://htmlpreview.github.io/?https://github.com/mart-in-a-jar/calculator/blob/main/index.html)
