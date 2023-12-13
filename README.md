@@ -5,7 +5,6 @@
 mart-in-a-jar/mart-in-a-jar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
 ### [Cashpoints](https://github.com/mart-in-a-jar/cashpoints)
 Deposit or charge cashpoints for users in Munu POS, get user info from D365
 
@@ -18,6 +17,9 @@ Slider react component. To be used for opening doors
 [Live preview](https://mart-in-a-jar.github.io/custom-slider)
 
 ## Some of my projects done during [The Odin Project](https://www.theodinproject.com)
+
+### [Inventory system (WIP)](https://github.com/mart-in-a-jar/odin-inventory)
+Fullstack MERN project
 
 ### [Portfolio site](https://github.com/mart-in-a-jar/odin-portfolio)
 Responsive design project  
