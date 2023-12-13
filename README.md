@@ -65,7 +65,7 @@ DOM manipulation and webpack
 [Live preview](https://mart-in-a-jar.github.io/odin-restaurant-page/)
 
 ### [Loyalty program](https://github.com/mart-in-a-jar/loyalty_program)
-Digital stampcards  
+Digital stampcards demo   
 [Live preview](https://ndm.ssn.no/bok/)
 
 ### [Form validation with javascript](https://github.com/mart-in-a-jar/js_fiddle/tree/main/form_validation)  
