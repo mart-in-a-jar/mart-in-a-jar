@@ -80,6 +80,3 @@ Api, fetch, async, location
 
 ### [Calculator app](https://github.com/mart-in-a-jar/calculator)
 [Live preview](http://htmlpreview.github.io/?https://github.com/mart-in-a-jar/calculator/blob/main/index.html)
-
-### [Rock, paper, scissors game](https://github.com/mart-in-a-jar/rock-paper-scissors)
-[Live preview](http://raw.githack.com/mart-in-a-jar/rock-paper-scissors/main/index.html)
