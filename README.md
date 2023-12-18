@@ -8,6 +8,10 @@ You can click the Preview link to take a look at your changes.
 ### [Cashpoints](https://github.com/mart-in-a-jar/cashpoints)
 Deposit or charge cashpoints for users in Munu POS, get user info from D365
 
+### [Translate](https://github.com/mart-in-a-jar/translate-message)  
+A mockup of automatic translation of messages sent to end users, with comparison between openAi and google translate  
+[Live preview](https://demo.ssnit.no/)
+
 ### [Loyalty program](https://github.com/mart-in-a-jar/loyalty_program)
 Digital stampcards prototype   
 [Live preview](https://mart-in-a-jar.github.io/loyalty_program/)
