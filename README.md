@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 Deposit or charge cashpoints for users in Munu POS, get user info from D365
 
 ### [Loyalty program](https://github.com/mart-in-a-jar/loyalty_program)
-Digital stampcards demo   
+Digital stampcards prototype   
 [Live preview](https://mart-in-a-jar.github.io/loyalty_program/)
 
 ### [Custom slider](https://github.com/mart-in-a-jar/custom-slider)
