@@ -20,7 +20,7 @@ Digital stampcards prototype
 Slider react component. To be used for opening doors  
 [Live preview](https://mart-in-a-jar.github.io/custom-slider)
 
-## Some of my projects done during [The Odin Project](https://www.theodinproject.com)
+## Some of my projects from [The Odin Project](https://www.theodinproject.com)
 
 ### [Inventory system](https://github.com/mart-in-a-jar/odin-inventory) (WIP)
 Fullstack MERN project
