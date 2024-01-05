@@ -10,6 +10,7 @@ Deposit or charge cashpoints for users in Munu POS, get user info from D365
 
 ### [Translate](https://github.com/mart-in-a-jar/translate-message)  
 A mockup of automatic translation of messages sent to end users, with comparison between openAi and google translate  
+Also demo of a copilot chatbot  
 [Live preview](https://demo.ssnit.no/)
 
 ### [Loyalty program](https://github.com/mart-in-a-jar/loyalty_program)
