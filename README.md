@@ -23,8 +23,9 @@ Slider react component. To be used for opening doors
 
 ## Some of my projects from [The Odin Project](https://www.theodinproject.com)
 
-### [Inventory system](https://github.com/mart-in-a-jar/odin-inventory) (WIP)
-Fullstack MERN project
+### [Inventory system](https://github.com/mart-in-a-jar/odin-inventory)
+Fullstack MERN project  
+[Live preview](https://odin-inventory-production-19c2.up.railway.app)
 
 ### [Portfolio site](https://github.com/mart-in-a-jar/odin-portfolio)
 Responsive design project  
